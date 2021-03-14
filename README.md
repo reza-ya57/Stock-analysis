@@ -37,5 +37,5 @@ Dim tickers(12) As String
   - Increase complexity of the code
   - Take more time 
 
-### To refactor the original code in this project we eliminate non essential loop and used single loop for the whole process. This change cuased more complixity to find the solution to run the script with one loop. In other hand by using this method the script line decreased and also the execution time improved. 
-### In summary refactoring is required for high performance script regarding to run the code in large data so we can have a significant improvement by reduce the memory usage and increase the execution time. 
+#### To refactor the original code in this project we eliminate non essential loop and used single loop for the whole process. This change cuased more complixity to find the solution to run the script with one loop. In other hand by using this method the script line decreased and also the execution time improved. 
+#### In summary refactoring is required for high performance script regarding to run the code in large data so we can have a significant improvement by reduce the memory usage and increase the execution time. 
