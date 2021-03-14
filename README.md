@@ -4,12 +4,19 @@
 
 ## Result
 ### To refactor the code we used array variable and put all process in one loop to prevent multiple process and reduce the output time. 
-- we determine three array below array to cllect the result and pass to the summary
+- In this project we used array variable to record stock name and value so we assign a 12 size array regarding the total number of stocks.
+```
+Dim tickers(12) As String
+        
+```
+- We determine three below arrays to collect the result and pass to the analyze report
 ``` 
     Dim tickerVolume(12) As Long
     Dim tickerStartingPrice(12) As Single
     Dim tickerEndingPrice(12) As Single
 ```
-
+- By comparing 2017 and 2018 data analysis we can make below conclusion:
+    - By looking at yearly return percentage we can say 2017 has better performance than 2018
+    - 
 by preparing summary report in total daily volume for 2017 and 2018 based on the yearly return for these 12 stocks. Total daily volume can show him how actively the stocks was traded and the yearly return shows the percentage increase or decrease in price from the beginning of the year to the end of the year.
 
