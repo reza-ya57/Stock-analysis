@@ -17,7 +17,8 @@ Dim tickers(12) As String
 ```
 - By comparing 2017 and 2018 data analysis we can make below conclusion:
 ![Comparison_Chart](https://github.com/reza-ya57/Stock-analysis/blob/main/Resources/Performanc_Stock_Comparison.png)
-    - By looking at yearly return percentage we can say 2017 has better performance than 2018
-    - 
+
+- By looking at yearly return percentage we can say 2017 has better performance than 2018. In 2017 only one of the stock has negative return and the others have positive outcome. 
+- Based on 2018 result two stocks have a better performance which can be a candidate to investing.
 by preparing summary report in total daily volume for 2017 and 2018 based on the yearly return for these 12 stocks. Total daily volume can show him how actively the stocks was traded and the yearly return shows the percentage increase or decrease in price from the beginning of the year to the end of the year.
 
